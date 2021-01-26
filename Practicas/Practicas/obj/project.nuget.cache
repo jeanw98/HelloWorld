@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATIF/kdd0PJjHKV8SU2LZghn4OLdJ/QUcsfdPfPDvqO6gogwh8fqNfDQRJtD7mjTV+ClgazzbqEZUVZ5pu3JLg==",
+  "success": true,
+  "projectFilePath": "/Users/jeanmwd/Projects/Practicas/Practicas/Practicas.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeanmwd/.nuget/packages/carbon.data.protection/1.5.0/carbon.data.protection.1.5.0.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/carbon.packaging/1.50.0/carbon.packaging.1.50.0.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/carbon.storage/3.0.1/carbon.storage.3.0.1.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/carbon.versioncontrol/2.6.0/carbon.versioncontrol.2.6.0.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/carbon.versioning/2.0.1/carbon.versioning.2.0.1.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/github/1.34.0/github.1.34.0.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/microsoft.build.tasks.git/1.0.0/microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/microsoft.sourcelink.common/1.0.0/microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "/Users/jeanmwd/.nuget/packages/microsoft.sourcelink.github/1.0.0/microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
