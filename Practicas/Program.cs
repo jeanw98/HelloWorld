@@ -9,6 +9,12 @@ namespace vscode
     class Program
     {
 
+        static int Sumar (int a, int b)
+        {
+            int result = a + b;
+            return result;
+        }
+
         static int Multiply(int number1, int number2)
         {
             int result = number1 * number2;
@@ -39,7 +45,7 @@ namespace vscode
             Console.WriteLine(sentence);
             int wordCount = CountWords(sentence);
             Console.WriteLine("There are" + wordCount + " in that sentence");
-
+            Console.WriteLine("probando");
             Console.ReadKey();
 
             /*var processList = Process.GetProcesses();
